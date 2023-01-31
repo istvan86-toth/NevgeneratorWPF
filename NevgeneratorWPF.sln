@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevgeneratorWPF", "NevgeneratorWPF\NevgeneratorWPF.csproj", "{A31F4B5D-7038-4472-A7E5-0DED122F72FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31F4B5D-7038-4472-A7E5-0DED122F72FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31F4B5D-7038-4472-A7E5-0DED122F72FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31F4B5D-7038-4472-A7E5-0DED122F72FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31F4B5D-7038-4472-A7E5-0DED122F72FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0EFAD01-EC9F-41E7-84E9-13D78FA0437A}
+	EndGlobalSection
+EndGlobal
